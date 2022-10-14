@@ -1,6 +1,6 @@
 # E-commerce Website
 
-* Technologies Used: * HTML5, CSS3, JavaScript, Bootstrap3
+** Technologies Used: ** HTML5, CSS3, JavaScript, Bootstrap3
 
 
 ###Here's how it looks:
@@ -13,5 +13,5 @@
 
 ####Cart
 
-![Shopping Cart](https://github.com/[mraafayv]/[Sudofy]/blob/[e-commerce]/cart.jpg?raw=true)
+![Shopping Cart](https://github.com/[mraafayv]/[Sudofy]/blob/[e-commerce]/cart.JPG?raw=true)
 
