@@ -28,7 +28,7 @@ Deployed Project Link: https://mraafayv.github.io/kfc-landing-page
 
 
 
-### <ins> Module No. 2: (JavaScript) </ ins>
+### <ins> Module No. 2: (JavaScript) </ins>
 
 #### Assignment 1: Animated Progress Bar
 
