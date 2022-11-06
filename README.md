@@ -2,7 +2,7 @@
 
 ## Assignments
 
-### Module No. 1: (CSS)
+### <ins> Module No. 1: (CSS) </ins>
 
 #### Assignment 1: Facebook ChatBox Design
 
@@ -28,7 +28,7 @@ Deployed Project Link: https://mraafayv.github.io/kfc-landing-page
 
 
 
-### Module No. 2: (JavaScript)
+### <ins> Module No. 2: (JavaScript) </ ins>
 
 #### Assignment 1: Animated Progress Bar
 
@@ -37,9 +37,9 @@ Github Repository Link: https://github.com/mraafayv/progress-bar
 Deployed Project Link: https://mraafayv.github.io/progress-bar
 
 
+##
 
-
-### Practise Projects
+## Practise Projects
 
 #### Task List (Simple To Do App)
 
