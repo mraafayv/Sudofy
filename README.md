@@ -44,3 +44,5 @@ Deployed Project Link: https://mraafayv.github.io/progress-bar
 #### Task List (Simple To Do App)
 
 Github Repository Link: https://github.com/mraafayv/Task-List
+
+Deployed Project Link: https://mraafayv.github.io/Task-List
