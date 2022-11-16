@@ -37,6 +37,14 @@ Github Repository Link: https://github.com/mraafayv/progress-bar
 Deployed Project Link: https://mraafayv.github.io/progress-bar
 
 
+
+#### Assignment 2: Spotify Web Clone
+
+Github Repository Link: https://github.com/mraafayv/spotify-clone
+
+Deployed Project Link: https://mraafayv.github.io/spotify-clone/
+
+
 ##
 
 ## Practise Projects
