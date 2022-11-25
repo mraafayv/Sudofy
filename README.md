@@ -54,3 +54,14 @@ Deployed Project Link: https://mraafayv.github.io/spotify-clone/
 Github Repository Link: https://github.com/mraafayv/Task-List
 
 Deployed Project Link: https://mraafayv.github.io/Task-List
+
+
+
+#### Magic Cube
+
+Github Repository Link: https://github.com/mraafayv/magic-cube
+
+Deployed Project Link: https://mraafayv.github.io/magic-cube
+
+
+
